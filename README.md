@@ -40,5 +40,5 @@ Complete a task:
 * Unit tests;
 * Readme;
 
-# It it optional to have:
+# It is optional to have:
 * Edit a task;
