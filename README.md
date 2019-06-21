@@ -36,7 +36,7 @@ Complete a task:
 
 # There is no need of:
 * Handle user login.
-* Devops, just delivery a readme to run locally the project.
+* Devops, a simple readme to run locally the project will work.
 
 # It is important but not required:
 * Unit tests;
