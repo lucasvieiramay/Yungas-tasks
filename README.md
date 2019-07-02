@@ -25,7 +25,7 @@ Complete a task:
   
   * Every action must generate a request on the API.
   
-  * When you complete a task, don't wait for the backend api response's. Use a hot reload tecnologgy to show the result instantly for the user.
+  * When you complete a task, don't wait for the backend api response's. Use a hot reload tecnology to show the result instantly for the user.
   
  * Backend:
    * Must use's Python, if you don't have any knowledge on python's language, tell us.
