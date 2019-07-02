@@ -25,12 +25,12 @@ Complete a task:
   
   * Every action must generate a request on the API.
   
-  * When you complete a task, don't wait for the backend api response's. Use a hot reload tecnology to show the result instantly for the user.
+  * When you complete a task, don't wait for the backend api response's. Use a hot reload technology to show the result instantly for the user.
   
  * Backend:
-   * Must use's Python, if you don't have any knowledge on python's language, tell us.
+   * You must use Python. If you do not have any knowledge on Python's language, let us know.
       
-   * You can choose any python framework, like Django, Flask, Tornado, Pyramid and others.
+   * You can choose any Python framework, like Django, Flask, Tornado, Pyramid and others.
    
    * You should design an API to receive the backend calls. Fell free to design this API.
 
