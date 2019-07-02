@@ -32,7 +32,7 @@ Complete a task:
       
    * You can choose any python framework, like Django, Flask, Tornado, Pyramid and others.
    
-   * You should design an api to receive the backend calls. Fell free to design this api.
+   * You should design an API to receive the backend calls. Fell free to design this API.
 
 # There is no need of:
 * Handle user login.
