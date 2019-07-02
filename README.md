@@ -3,7 +3,7 @@ This is a tech test for Yungas developer candidates.
 
 # What will need to do:
 You must create a web application.
-This will be a simple task todo.
+This will be a simple task to do.
 
 # Scope:
 Create tasks:
